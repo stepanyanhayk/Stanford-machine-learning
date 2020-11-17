@@ -1,0 +1,20 @@
+Hi all,
+
+Separately, CS50 will also be holding a special lecture via Zoom on artificial intelligence and "machine learning" this Wednesday, 18 November 2020, 1:30pm–2:30pm EDT, led by CS50's own Brian Yu. (Convert to your own time zone.)
+
+Today, computers can drive cars, diagnose diseases, compose music, translate human languages, and more. How do these technologies work? And how can humans build computer systems that are smarter than ourselves? Join us for a discussion of the principles that lie at the foundation of modern artificial intelligence and machine learning.
+
+If you'd like to attend via Zoom, register at
+
+https://cs50.zoom.us/meeting/register/tJArdeutrTsqE9y0IyPV2cicsqXwTIYTTCFU
+
+and follow the on-screen instructions (which should also be emailed to you automatically).
+
+You can also watch live or on demand afterward at https://youtu.be/GUKDDbL24lI or https://www.facebook.com/cs50/posts/10157498150917127.
+
+And if you have trouble seeing Brian's screen via Zoom, you can also try https://cs50.ly/screen.
+
+Hope to see you then too!
+
+djm
+
